@@ -3,8 +3,6 @@
 import hashlib
 
 input = 'iwrupvqb'
-
-#m = hashlib.md5()
 i = 0
 
 while True:
