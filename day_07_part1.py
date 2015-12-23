@@ -25,7 +25,6 @@ for line in open('day_07.data'):
         continue
 
     commands.append(line)
-    
 
 new_queue = list()
 iteration = 0
